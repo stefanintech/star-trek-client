@@ -1,5 +1,5 @@
 # <a target="_blank" href="https://startrekfieldguide.netlify.app/">Star Trek Field Guide</a> 🚀
-<a href="https://startrekfieldguide.netlify.app/" target="_blank"><img src="#"></a>
+<a href="https://startrekfieldguide.netlify.app/" target="_blank"><img src="https://github.com/codewithfan/star-trek-client/blob/main/trekkie.gif"></a>
 
 The goal was to create a full stack web application using CRUD.
 
